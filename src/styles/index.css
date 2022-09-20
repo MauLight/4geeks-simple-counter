@@ -10,3 +10,32 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background: #212529;
+    justify-content: center;
+    font-size: 100px;
+}
+
+
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 100px;
+}
+
+.btn {
+    font-size: 300px;
+}
+
+.clock {
+    padding-bottom: 100px;
+}
+
+i {
+    color: whitesmoke;
+    font-size: 260px;
+
+}
